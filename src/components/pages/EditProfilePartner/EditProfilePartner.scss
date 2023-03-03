@@ -1,0 +1,38 @@
+.space-profile-partner {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 20px 0px;
+}
+
+.main-content-profile-partner {
+    width: 90%;
+}
+
+.none-service {
+    border-radius: 0px 10px 10px 10px;
+    box-shadow: 0px 1px 2px gray;
+}
+
+.m-top-auto {
+    margin: auto 20px;
+}
+
+.text-danger {
+    margin-left: 10px;
+    color: red;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.text-pause {
+    color: rgb(255, 178, 22);
+}
+
+.text-active {
+    color: rgb(133, 226, 84);
+}
